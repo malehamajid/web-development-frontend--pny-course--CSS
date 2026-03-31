@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .main{
+                display: grid;
+                grid-template-columns: auto auto auto;
+            }
+            .submain{
+                background-color: red;
+                margin: 0px;
+                height: 150px;
+                width: 150px;
+                gap: 0px;
+            }
+            .colexpand{
+                background-color:red ;
+                color: white;
+                text-align: center;
+                margin: 0px;
+                height: 450px;
+                width: 150px;
+                grid-row: 1 / span 3;
+                gap: 0px;
+            }
+            .rowexpand{
+                background-color:rgb(9, 139, 130) ;
+                color: white;
+                text-align: center;
+                margin-top: 0px;
+                height: 80px;
+                width: 1060px;
+                grid-column: 2 / span 4;
+                gap: 0px;
+            }
+            .rowexpand1{
+                background-color: rgb(30, 131, 225);
+                color: white;
+                text-align: center;
+                margin: 0px;
+                height: 100px;
+                width: 1210px;
+                grid-column: 1/ span 3;
+                gap: 0px;
+            }
+            .rowexpands{
+                background-color: rgb(162, 177, 72);
+                color: white;
+                text-align: center;
+                margin-top: 0px;
+                margin-right: 1000px;
+                height: 370px;
+                width: 1060px;
+                grid-column: 2/ span 4;
+                gap: 0px;
+            }
+            
+        </style>
+
+    </head>
+    <body>
+    <div class="main">
+        <div class="colexpand">MENU</div>
+        <div class="rowexpand">HEADER</div>
+        <!--<div class="submain">3</div>-->
+        <div class="rowexpands">CONTENT</div>
+        <!--<div class="submain">5</div>
+        <div class="submain">6</div>
+        <div class="submain">7</div>-->
+        <div class="rowexpand1">FOOTER</div>
+        <!--<div class="submain">9</div>-->
+    </div>
+       
+    </body>
+</html>

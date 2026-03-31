@@ -1,0 +1,98 @@
+properties of css:-
+1. background colour (use to chnage the background of the text)
+2. color(use to change the colour of the text)
+3. text-allign (use to allign text in centre,left,right,start and end)
+4. height ( use to set the height of the image)
+5. width(use to set the width of the text)
+6. opacity (used for visibility or brightness of image)
+7. filter (use to apply filter on image like graysacle,blur,contrast,drop shadow,invert,saturate and sepia)
+8. border(use for the border around image)
+9. border-radius(use to measure the radius of border)
+    (CSS)Casecoding Style Sheet
+10. index property(v.v imp) it start at 0.it is used to written the tex on img by indexing -1.(z-index)is a tag,
+position bhi or left top bhi use hota hy
+11.margin(outer sy margin deny k lie)
+we also use margin tag as a (margin 0px 5px 6px 4px)top,right,bottom,left                                               
+-left 		                   
+-right
+-bottom
+-top
+.-PADDING
+padding(inner k lie mean do chezon ko door krny k lie)inner sy margin k lie
+-left
+-right
+-top
+-bottom
+13-DISPLAY 
+how to display html by defoult it shows block to change the block we use in line block
+(inline-block)
+14-TEXT DECURATION
+17-media  Query:@media query and(max-width: )and(max-hieght){} then use direct tag to apply media query if media query not work use the viewport tag in head 
+is used to creat responsive of our website for any device.kisi b device k lihaz sy web set krna
+direct tag css not use .
+18-FLEX
+flex is used to create a website layout it is used to create a one dimentional layout.rows/coloum
+-display: flex
+19-flex direction  mean=row reverse/coloum reverse
+20flex wrap/nowrap mean=manage  the flex according to screen 
+21-flex shrink
+22-flex grow mean=jga ko gher leta hy div ko jitna bra krna ho tou ye proprty use krty hn
+23-GRID
+-display grid
+24-grid template coloum
+-grid template (row auto auto)jitni bar auto likhen gy utny hi colunm bnen gy
+25-gap
+26-grid row use to expand row are coloum
+27-grid coloum for (1/span 3)extra
+28-gradient in css   
+different color combination website ko deny k lie use hoti hy
+gradient shows the different color pattern in css
+there are three type of gradient in css:
+29-linear gradient 
+ye line my hota hy mean to left to right tou isi equation sy agy ko ajta hy or percentage
+lga k hm color ko km ya ziyada kr skty hn jitna hmy chhaiye ho
+30-radioul gradient 
+radial gradient circle my hota hy circle type color deta hy
+31-conic gradient(it shows like kon shape
+32-justify content,center,use tou center the div in x exis center and this is used with flex property display flex k bad use hota hy
+there are 4 parameters
+-flex start
+-flex end
+-space around
+-space between
+33-align item
+there are three type we can use justify content and align item both at a same time
+-center
+-end
+-start
+34-Animation
+animation is used to transform an html object into another styling phase
+animation my @keyframe use hota hy 
+-animation-name
+-animation-duration
+-animation-delay
+35-animation(it is used to inorder the all function at a time)
+36-animation-timing-function
+parameters
+-ease out (50% fast 50% slow)
+-ease-in  (fisrt 50% slow after 50% fast) start py slow end py fast
+-ease-in-out(25% slow mid 50% fast and last 20% slow)
+37-transition
+it is used to view the process of transformation we can control the speed by changing css properties
+38-transformation
+transformation is used tou transfor any object into another object and it work in two or three dimensional space and applies 2d or 3d eliments
+parameters
+-skrew (define the 2D skrew transformation along x exis and y exis)
+-rotate(it can be 2D or 3D.it rotate an image its unit is deg)
+-Scale (it is used to make an object larger or smaller
+-translate (it is used move our object up,down,left and right)
+-matric(it used to combine 2  properties of transformation  together
+-Display-none
+it remove the element from document and take no space
+-display-hidden
+it hide the element but it takes the place in document
+39-favicon
+40-
+
+
+

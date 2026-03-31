@@ -1,0 +1,112 @@
+It is used to format. layout of web page. It also give aesthetic to a webpage
+TYPES
+• Internal CSS.
+External CSS.
+Inline CSS.
+INTERNAL CSS:- (Embedded CSS)
+It can be done using <style> tag within the HTML docament. In head section)
+Attributes are always given in Starting tag
+INLINE CSS
+It applies styling to individual HTML element. It is written in attributes of starting tag.
+Style. Css link it files and then. to inder file in order to use it. Mosto I can do enternal CSS by giveng class in div and then that a class name is used to stlye style it.
+LINK TAG
+This tag is used to attach CSS file to index.html document. It has no ending tag like br tag
+href 15 It path or reference. is the URL of page
+PROPERTIES:-
+0 Opacity
+decide com Web developer can how much user can or blus image. By default its value is 100%
+FILTER
+Defines visual effects ike blur, contrast gray scale. will turn colour image in gray.
+HEIGHT
+Defines height.
+WIDTH
+Filter has Ji Re many functions blus, brightness, contrast, Sepia, saturate, invert contrast elc
+BORDER-
+Define border with solid, double, dotted etc attribute
+BORDER RADIUS
+trol sharpness of border Control of image. At 50% image become circle
+INDEXING Decide order of multiple things like. I can change order according to desixe
+MARGIN: Create space around
+element. It can go in all. directions like margin-top etc. oad "auto" is used to horizontally center elements. like element will take its space and remaining. Space will split equally between left and right margins
+PADDING-
+Define Space b/w an element's border and element Content.
+TEXT DECORATION-
+It specifies dis-de cosachon. odded to a text like "hover" is used to select elements. when you put your mouse over them. It gives ives transition to elements. Eig under line, none etc
+1)Favi-icons
+It is a small image like icons placed next to tent like Inent to location. But I will have to link library in head. Eu Font awesome. Iibrary
+Navbar is always designed in unordered list.
+Purple color indicates the Visited link.
+Blue color indicates active link. the
+"pa or pixel is smallest unit
+If I don't have service then I can from library by internet copy all code and make link of icon. CSS and opaste it in this file name So I can internet.// display favicons with od
+By default "block" R but by styling display we 1+ Ocan shows change in
+Hierarchy are Ts made when there ma in her tags.
+MEDIA QUERY
+It is used to make my website responsive for any device. We Cari contro how our website will look in other devices like android. iphone, laptop.
+In media screen specif max or min specify Width
+FLEX:
+Create a website layout. Specifically for one layout (Yow/column). dimensional
+Flex-direction-reverses
+5 Flex-direction:-
+16 Flex-grow-
+It is used to take multple in div. Spaces
+Flen-wrap:-/No wrap=
+(18) Flex - Shrink:-
+(19) Flex-order:-
+: Parameter of Display:
+20) GRID- used to handle two dimensional laysuut
+21) Grid-template-column: (or Row)
+22) Column-grap:-
+23) Row-gap
+24) Grid row:
+25) Grid column:-
+20) Grid-row-start-
+27) Grid-row-end
+Gradients:- To show multiple colour patterns.
+TYPES
+LINEAR
+Goes up/down/left/right/diagonally.
+RADIAL:- Defined by their center.
+Conic: Rotated around a center point-
+29) Box- Shadow Gives Shadow to image.
+30) Justify Content-
+Align Oflex Hems at center.
+PARAMETERS
+31 Align-items.
+< >
+• A space around
+Space between
+stretch
+flex start/end.
+ANIMATION
+Transform html object into another Styling phase. I can change stylles
+32) Animation-name:-
+33) Animation- duration
+Defines how long an animation should take to complete. Defaal value
+34) Animation-delay:
+specifies delay for start of an animation.
+35) Animation-timin -timing function of specifies speed curve. of on animation
+Parameters
+•ease-in (first 50% slow then next 50% faster) ease-out (frost reverse) ease-in-out (25% slow, mid 50%. fast, 25% slow)
+36) Animation:-
+In order to define all previous function at once.
+37) Transition
+View the process/pattern of transformation ..I can contral animation speed while changmy CSS properties.
+38) Transformation:- Applies 2D or 3D transformation to an element. It work in two or three dimensional space.
+Difference b/w Transform 4 transition
+In transition, I when animation works it comes back to its original position.. While in transformation animation doesn't go form back to its original
+Parameters of Transformations-
+39) Skew (st-angle, y-angle):
+Defines a 20 Skew transformation along the X and Y our mage axis. It stretch out
+40) Rotate:
+Defines a rotation. It can be 20 or 3D. It rotate an image. Its unit is "deg"
+41) Scale
+used to make our object larges or smaller. Like scale (1, 2); will make double the my y-axis of object Osize of x-anus
+42) Translate: used
+to nad move our object up/down/left/right or back and forth. It moven my animation on screen. Its unit is "PX"
+43) Matrix
+we can emerge/combine two properties of transformation together.
+44) Display-none- It removes the
+element from document and it doesn ot take any space.
+45) Display-hiddens
+It hides the element but it still takes up space in document.
