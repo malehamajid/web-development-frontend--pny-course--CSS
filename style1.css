@@ -1,0 +1,12 @@
+.zx{
+    height: 10%;
+    width: 10%;
+    border: 10px double solid rgb(160, 31, 31);
+}
+.line{
+    background-color: rgb(50, 220, 220);
+
+}
+.red{
+    color: brown;
+}
