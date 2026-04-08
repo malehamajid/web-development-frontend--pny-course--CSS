@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .main{
+                background-color: red;
+                height: 300px;
+                width: 300px;
+                animation-name: abc;
+                animation-duration: 10s;
+                animation-delay: 10s;
+                animation-timing-function: ease-out;
+            }
+            @keyframes abc{
+                from{
+                    background-color: red;
+                    width: 300px;
+                }
+                to{
+                    background-color: blue;
+                    width: 500px;
+                }
+            }
+            .xyz{
+                font-size: 70px;
+                animation: gh  10s ease-in-out 2s 10 ;
+            }
+            @keyframes gh{
+                20%{
+                    color: black;
+                    font-size: 80px;
+                }
+                40%{
+                    color: red;
+                    font-size: 90px;
+                }
+                60%{
+                    color: blue;
+                    font-size: 100px;
+                }
+                80%{
+                    color: green;
+                    font-size: 110px;
+                }
+                100%{
+                    color: brown;
+                    font-size: 120px;
+                }
+            }
+        </style>
+
+    </head>
+    <body>
+        <div class="main">
+
+        </div>
+        <h1 class="xyz">Hello World!!</h1>
+    </body>
+</html>
